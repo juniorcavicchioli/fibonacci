@@ -8,6 +8,9 @@ observada em vários seres vivos, como insetos, plantas, no rosto humano, até m
 várias estruturas em um mesmo ser vivo.
 (Fonte: <a href="https://planetabiologia.com/a-sequencia-de-fibonacci-na-natureza/">Planeta Biologia</a>)
 </br> </br>
+## Objetivo
+Minha intenção com esse repositório é reforçar meu conhecimento em diferentes linguagens usando um mesmo problema simples.
+Atualmente estão aqui um projeto em Python e em Java. </br> </br>
 No projeto em Python <a href="https://github.com/juniorcavicchioli/fibonacci/blob/main/fibonacci.py">fibonacci.py</a>
 estão duas funções importantes: <b>formula_fechada</b> e <b>formula_recusiva</b>. </br>
 A função <b>formula_recursiva</b> utiliza da fórmula recursiva para encontrar o enésimo termo da sequência. </br>
