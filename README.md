@@ -7,9 +7,9 @@ primeira vez no século XII pelo italiano Leonardo Fibonacci. Essa sequência é
 observada em vários seres vivos, como insetos, plantas, no rosto humano, até mesmo no rabo de um camaleão e em 
 várias estruturas em um mesmo ser vivo.
 (Fonte: <a href="https://planetabiologia.com/a-sequencia-de-fibonacci-na-natureza/">Planeta Biologia</a>)
-</br>
+</br> </br>
 No arquivo <a href="https://github.com/juniorcavicchioli/fibonacci/blob/main/fibonacci.py">fibonacci.py</a>
-estão duas funções importantes: <b>formula_fechada</b> e <b>formula_recusiva</b>. </br> </br>
+estão duas funções importantes: <b>formula_fechada</b> e <b>formula_recusiva</b>. </br>
 A função <b>formula_recursiva</b> utiliza da fórmula recursiva para encontrar o enésimo termo da sequência. </br>
 <a href="https://www.ime.unicamp.br/~deleo/MA220/a03.pdf" target="_blank">
 ![fórmula recursiva](https://user-images.githubusercontent.com/101985616/206966245-3eed2f00-b914-4a08-a5f2-df2eac2fedad.png)
