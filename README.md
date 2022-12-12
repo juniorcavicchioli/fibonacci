@@ -31,3 +31,7 @@ Já a pasta Fibonacci contém o projeto em Java. A classe
 Fibonacci</a> tem a lógica semelhante do programa em Python com a diferença de sintaxe e as nomenclaturas respeitam o 
 <a href="https://pt.wikipedia.org/wiki/CamelCase">camelCase</a>, então o método <b>formulaFechada</b> equivale à função <b>formula_fecheada</b>
 do projeto em Python assim como o método <b>formulaRecursiva</b> equivale à função <b>formula_recursiva</b>.
+</br>
+
+Outra diferença está na estrutura do menu, que não utiliza de funções extras como no projeto Python, o que é irrelevante para o objetivo do
+projeto.
