@@ -21,3 +21,7 @@ para chegar ao termo desejado. </br>
 <a href="https://www.ime.unicamp.br/~deleo/MA220/a03.pdf" target="_blank">
 ![fórmula fechada](https://user-images.githubusercontent.com/101985616/206967548-bf707cff-de07-4d8a-96eb-bd62f0a31184.png)
 </a>
+</br>
+O restante das funçõs consistem em duas que servem apenas para o menu e a função <b>fibonacci_lista</b>
+serve para armazenar numa lista a sequência até o enésimo termo escolhido. O menu te permite usar as duas fórmulas para encontrar
+o termo que deseja e também uma lista com todos os termos até o enésimo termo escolhido.
