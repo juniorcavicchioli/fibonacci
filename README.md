@@ -1,0 +1,23 @@
+# Sequência de Fibonacci
+Na matemática, a sucessão de Fibonacci, é uma sequência de números inteiros, começando normalmente por 0 e 1 ou 1 e 1,
+na qual cada termo subsequente corresponde à soma dos dois anteriores.
+(Fonte: <a href="https://pt.wikipedia.org/wiki/Sequência_de_Fibonacci" target="_blank">Wikipédia</a>) </br>
+A sequência de Fibonacci é um padrão numérico que pode aparecer em vários seres vivos. Foi descrita pela
+primeira vez no século XII pelo italiano Leonardo Fibonacci. Essa sequência é muito comum na natureza e pode ser
+observada em vários seres vivos, como insetos, plantas, no rosto humano, até mesmo no rabo de um camaleão e em 
+várias estruturas em um mesmo ser vivo.
+(Fonte: <a href="https://planetabiologia.com/a-sequencia-de-fibonacci-na-natureza/">Planeta Biologia</a>)
+</br>
+No arquivo <a href="https://github.com/juniorcavicchioli/fibonacci/blob/main/fibonacci.py">fibonacci.py</a>
+estão duas funções importantes: <b>formula_fechada</b> e <b>formula_recusiva</b>. </br> </br>
+A função <b>formula_recursiva</b> utiliza da fórmula recursiva para encontrar o enésimo termo da sequência. </br>
+<a href="https://www.ime.unicamp.br/~deleo/MA220/a03.pdf" target="_blank">
+![fórmula recursiva](https://user-images.githubusercontent.com/101985616/206966245-3eed2f00-b914-4a08-a5f2-df2eac2fedad.png)
+</a>
+</br>
+A função <b>formula_fechada</b> utiliza da formula fechada da sequência para também encontrar o enésimo termo com a
+diferença de que é mais rápido já que, diferente da formula recursiva, não precisa passar por todos os termos anteriores
+para chegar ao termo desejado. </br>
+<a href="https://www.ime.unicamp.br/~deleo/MA220/a03.pdf" target="_blank">
+![fórmula fechada](https://user-images.githubusercontent.com/101985616/206967548-bf707cff-de07-4d8a-96eb-bd62f0a31184.png)
+</a>
