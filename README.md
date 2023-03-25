@@ -38,3 +38,9 @@ do projeto em Python assim como o método <b>formulaRecursiva</b> equivale à fu
 
 Outra diferença está na estrutura do menu, que não utiliza de funções extras como no projeto Python, o que é irrelevante para o objetivo do
 projeto.
+
+### Autor
+Feito por [@juniorcavicchioli](https://github.com/juniorcavicchioli?tab=repositories). Entre em contato!
+
+LinkedIn: [Adilson Roberto Cavicchioli Junior](https://www.linkedin.com/in/adilson-roberto-cavicchioli-junior-6816b7192?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIpMh5bVEQOi82%2FRHJ6oxkg%3D%3D) <br>
+Email: [cavicchioli.adilson@gmail.com](mailto:cavicchioli.adilson@gmail.com)
