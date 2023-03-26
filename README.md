@@ -10,7 +10,9 @@ várias estruturas em um mesmo ser vivo.
 
 <img src="https://user-images.githubusercontent.com/101985616/227748459-9c5606fd-6f88-42a4-9944-1cea516202c4.jpg"
      width="400em"/>
-</br> </br>
+
+*Para descontrair: uma imagem de minha gata usando a sequência de Fibonacci para dormir bem*
+
 ## Objetivo
 Minha intenção com esse repositório é reforçar meu conhecimento de sintaxe e lógica em diferentes linguagens usando um mesmo problema simples.
 Atualmente estão aqui um projeto em Python e em Java. </br> </br>
