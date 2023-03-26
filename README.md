@@ -7,6 +7,9 @@ primeira vez no século XII pelo italiano Leonardo Fibonacci. Essa sequência é
 observada em vários seres vivos, como insetos, plantas, no rosto humano, até mesmo no rabo de um camaleão e em 
 várias estruturas em um mesmo ser vivo.
 (Fonte: <a href="https://planetabiologia.com/a-sequencia-de-fibonacci-na-natureza/">Planeta Biologia</a>)
+
+<img src="https://user-images.githubusercontent.com/101985616/227748459-9c5606fd-6f88-42a4-9944-1cea516202c4.jpg"
+     width="400em"/>
 </br> </br>
 ## Objetivo
 Minha intenção com esse repositório é reforçar meu conhecimento de sintaxe e lógica em diferentes linguagens usando um mesmo problema simples.
@@ -39,7 +42,7 @@ do projeto em Python assim como o método <b>formulaRecursiva</b> equivale à fu
 Outra diferença está na estrutura do menu, que não utiliza de funções extras como no projeto Python, o que é irrelevante para o objetivo do
 projeto.
 
-### Autor
+## Autor
 Feito por [@juniorcavicchioli](https://github.com/juniorcavicchioli?tab=repositories). Entre em contato!
 
 LinkedIn: [Adilson Roberto Cavicchioli Junior](https://www.linkedin.com/in/adilson-roberto-cavicchioli-junior-6816b7192?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIpMh5bVEQOi82%2FRHJ6oxkg%3D%3D) <br>
