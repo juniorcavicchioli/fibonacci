@@ -1,4 +1,7 @@
 # Sequência de Fibonacci
+<p align="right">
+<img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=juniorcavicchioli.DesafioTarget&color=1D70B8&logo=GitHub&logoColor=FFFFFF&style=flat-square"/>
+</p>
 Na matemática, a sucessão de Fibonacci, é uma sequência de números inteiros, começando normalmente por 0 e 1 ou 1 e 1,
 na qual cada termo subsequente corresponde à soma dos dois anteriores.
 (Fonte: <a href="https://pt.wikipedia.org/wiki/Sequência_de_Fibonacci" target="_blank">Wikipédia</a>) </br>
